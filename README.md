@@ -1,3 +1,25 @@
+<!-- PROJECT SHIELDS -->
+[![Build Status][build-shield]]()
+[![Contributors][contributors-shield]]()
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][ http://www.linkedin.com/in/siddharthoza]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+
+  <p align="center">
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</p>
+
+
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
 The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/2Iaz2UK).
