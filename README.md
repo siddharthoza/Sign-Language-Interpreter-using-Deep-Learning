@@ -32,7 +32,7 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 ![Example screenshot](./img/demo3.gif)
 
 
-**The entire demo of the project can be found on [YouTube](http://bit.ly/2Iaz2UK).**
+**The entire demo of the project can be found on [YouTube](http://bit.ly/2wdUz7f).**
 
 
 ## Screenshots
@@ -57,8 +57,8 @@ This will help you in installing all the libraries required for the project.
 ## Process
 
 * Run `set_hand_histogram.py` to set the hand histogram for creating gestures. 
-* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
-* Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/tree/master/Code).
+* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/siddharthoza/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
+* Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here](https://github.com/siddharthoza/Sign-Language-Interpreter-using-Deep-Learning/tree/master/Code).
 * Add different variations to the captured gestures by flipping all the images by using `Rotate_images.py`.
 * Run `load_images.py` to split all the captured gestures into training, validation and test set. 
 * To view all the gestures, run `display_gestures.py` .
@@ -159,7 +159,7 @@ Features that can be added:
 * Add more sign languages
 
 ## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](http://bit.ly/2WWllwg). 
+Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](http://bit.ly/2HwTE8t). 
 
 ## Contact
 Created by me with my teammates [Harsh Gupta](https://github.com/harshbg), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
