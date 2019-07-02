@@ -164,4 +164,3 @@ Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You ca
 ## Contact
 Created by me with my teammates [Harsh Gupta](https://github.com/harshbg), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
 
-
