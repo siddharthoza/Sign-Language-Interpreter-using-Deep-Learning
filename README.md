@@ -162,5 +162,5 @@ Features that can be added:
 Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](http://bit.ly/2HwTE8t). 
 
 ## Contact
-Created by me with my teammates (<a href="https://harshgupta.com/">Harsh Gupta</a>), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
+Created by me with my teammates <a href="https://harshgupta.com/">Harsh Gupta</a>, [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
 
